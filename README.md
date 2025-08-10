@@ -1,7 +1,7 @@
 Portfolio Analytics Dashboard
 A full-stack web application that provides a comprehensive, interactive view of a user's investment portfolio, built as part of the Full-Stack Developer Intern Assignment for WealthManager.online.
 
-Live Demo: https://portfolio-frontend-shriiiiii.vercel.app/
+Live Demo: [https://portfolio-frontend-shriiiiii.vercel.app/](https://portfolio-frontend-chi-woad.vercel.app/)
 <img width="1918" height="1031" alt="Screenshot 2025-08-10 100153" src="https://github.com/user-attachments/assets/961e370f-fb28-4c37-a979-34fad42cc1c0" />
 <img width="1915" height="1031" alt="Screenshot 2025-08-10 100210" src="https://github.com/user-attachments/assets/d8791fa0-7066-4cd9-8fff-789e96a8af55" />
 <img width="1913" height="1026" alt="Screenshot 2025-08-10 100221" src="https://github.com/user-attachments/assets/4f74c745-372a-4f54-ace1-29d076a90297" />
